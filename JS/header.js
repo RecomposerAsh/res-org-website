@@ -2,11 +2,11 @@
 
 const listItems = [
     {href: '#', text: 'Logo'},
-    {href: '#', text: 'Home'},
-    {href: '#', text: 'About'},
+    {href: 'home-page.html', text: 'Home'},
+    {href: 'about-page.html', text: 'About'},
     {href: '#', text: 'Get Involved'},
-    {href: '#', text: 'Resident Stories'},
-    {href: '#', text: 'FAQ'},
+    {href: 'resident-stories.html', text: 'Resident Stories'},
+    {href: 'faq.html', text: 'FAQ'},
     {href: '#', text: 'Support Us'},
 
 ];
