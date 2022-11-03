@@ -3,7 +3,7 @@
 }
 
 /* STORE TITLE */
-h1{
+/* h1{
     text-align: center;
     font-size: 75px;
     color: white;
@@ -31,15 +31,6 @@ body{
 
 }
 
-.description{
-    color: white;
-}
-
-.price{
-    font-weight: 600;
-    color: white;
-}
-
 .item-box :hover{
     transform: scale(1.02);
     transition: .3s;
@@ -56,4 +47,12 @@ body{
 
 #button:hover{
     background-color: white;
+} */
+
+.item-container .item-bo{
+    display: grid;
+    grid-template-columns: repeat(4 1fr);
+    /* grid-template-columns: repeat(auto-fit, minmax(240px, auto)); */
+    gap: 3rem;
+    justify-content: center;
 }
