@@ -5,7 +5,7 @@ const listItems = [
     {href: '#', text: 'Home'},
     {href: '#', text: 'About'},
     {href: '#', text: 'Get Involved'},
-    {href: '#', text: 'User Stories'},
+    {href: '#', text: 'Resident Stories'},
     {href: '#', text: 'FAQ'},
     {href: '#', text: 'Support Us'},
 
